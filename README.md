@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/izzy-world/izzy-world/blob/main/Github profile image?raw=true" width="150" height="150" style="border-radius: 50%;" alt="Israel Umezurike" />
+</p>
 <h1 align="center">Hi, I'm Israel Umezurike 👋</h1>
 <p align="center">🌍 Full-stack Developer | 💡 Bootcamp-Trained | 🔁 Transitioned from Political Science to Tech</p>
 
